@@ -35,11 +35,7 @@ class LinkedList:
         return size
     else:
       return 0
-
-
-
-
-
+      
 
 L = LinkedList()
 print('Inserted in liked list are:')
